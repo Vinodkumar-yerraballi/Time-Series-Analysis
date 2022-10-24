@@ -40,7 +40,7 @@ Then we create a variable for the 100days stock price with mean function the cod
     plt.plot(data.Close)
     plt.plot(max100,'red')
 
-![image](/home/vinod/Time Series Analysis/download.png)
+![download](https://user-images.githubusercontent.com/98636972/197584455-5b5b3537-8217-4565-a118-ba62d71a7365.png)
 
 And next we find the 200 days mean value and the visualize it .
 
@@ -50,7 +50,9 @@ And next we find the 200 days mean value and the visualize it .
        plt.plot(max100,'red')
        plt.plot(max200,'green')
 
-![imge](/home/vinod/Time Series Analysis/download (1).png)
+![download (1)](https://user-images.githubusercontent.com/98636972/197584607-57735e98-4293-4300-95fc-aaef32830836.png)
+
+
 
 ## After that we divided the data into train and testing.
 
@@ -128,5 +130,8 @@ Then we find the scale value of the scaler function and divided it to get a scal
             plt.ylabel("Price")
             plt.legend()
             plt.show()
+            
+![newplot](https://user-images.githubusercontent.com/98636972/197584718-5d3d60cf-74e6-468d-a269-fc92c591e519.png)
 
-![image](/home/vinod/Time Series Analysis/newplot.png)
+
+
