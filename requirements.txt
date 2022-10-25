@@ -4,5 +4,5 @@ matplotlib
 keras
 streamlit
 pandas_datareader
-tensorflow
 sklearn
+plotly.graph_objects
