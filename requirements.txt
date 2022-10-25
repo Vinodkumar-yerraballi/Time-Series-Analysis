@@ -6,4 +6,4 @@ streamlit
 pandas_datareader
 sklearn
 plotly
-tensorflow
+tensorflow==2.9.2
