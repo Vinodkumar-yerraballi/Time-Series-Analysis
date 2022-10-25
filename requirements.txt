@@ -5,4 +5,4 @@ keras
 streamlit
 pandas_datareader
 sklearn
-plotly.graph_objects
+plotly
