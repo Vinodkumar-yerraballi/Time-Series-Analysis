@@ -52,8 +52,6 @@ And next we find the 200 days mean value and the visualize it .
 
 ![download (1)](https://user-images.githubusercontent.com/98636972/197584607-57735e98-4293-4300-95fc-aaef32830836.png)
 
-
-
 ## After that we divided the data into train and testing.
 
        We take 70% data for testing and 30% for training the code given below
@@ -130,8 +128,6 @@ Then we find the scale value of the scaler function and divided it to get a scal
             plt.ylabel("Price")
             plt.legend()
             plt.show()
-            
+
+
 ![newplot](https://user-images.githubusercontent.com/98636972/197584718-5d3d60cf-74e6-468d-a269-fc92c591e519.png)
-
-
-
